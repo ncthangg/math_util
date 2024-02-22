@@ -6,6 +6,9 @@
 
 * The Math-Util library that offers multiple math functions(a Java-based source code)
 * Unit Testing source code with JUnit framework
+* GitHub Actions to demonstrate the Continuous Integration (CI) technique
+* Regression Test
+* ...
 
 ### Screenshots
 ![DDT & TDD with JUnit](https://github.com/ncthangg/math_util/blob/main/images/DTT%20with%20JUnit.png)
