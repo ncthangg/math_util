@@ -5,4 +5,4 @@
 * The Math-Util library that offers multiple math functions(a Java-based source code)
 * Unit Testing source code with JUnit framework
 
-### © 2024 ncthangg
+### © 2024 chien.thang
